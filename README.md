@@ -33,19 +33,11 @@ El sistema se apoya en un modelo entidad–relación organizado en áreas de suj
 
 ### Diagrama lógico
 
-<img width="1634" height="1140" alt="Image" src="https://github.com/user-attachments/assets/b24cae38-04ef-4542-8624-9b217c2a7037" />
+<img width="1634" height="1140" alt="Image" src="https://github.com/user-attachments/assets/2aefeb6a-799b-4bca-bd49-e32a7ba0610a" />
 
 ### Diagrama físico
-<<<<<<< HEAD
-<img width="1634" height="1172" alt="KathEncargos__Physical_Export-2025-11-14_21-23" src="https://github.com/user-attachments/assets/e224db54-a851-444b-aa71-7fc389baf1a8" />
 
-
-=======
-
-<img width="1634" height="1172" alt="Image" src="https://github.com/user-attachments/assets/f1aa188c-e88c-499c-a05b-4c623854c747" />
->>>>>>> origin/development
-
----
+<img width="1634" height="1182" alt="Image" src="https://github.com/user-attachments/assets/430c06ca-0fb5-48ff-8fc5-535d78a36e1c" />
 
 ## Arquitectura de la aplicación
 
