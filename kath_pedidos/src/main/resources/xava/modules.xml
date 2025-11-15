@@ -1,0 +1,11 @@
+<modules>
+
+    <module name="Rol">
+        <model name="Rol"/>
+    </module>
+
+    <module name="Usuario">
+        <model name="Usuario"/>
+    </module>
+
+</modules>
