@@ -1,9 +1,14 @@
 package uam.edu.ni.KathEncargos.domain.catalogos;
 
+import lombok.AllArgsConstructor;
+import lombok.*;
+
+
 import javax.persistence.*;
 
 @Entity
 @Table(name = "CategoriaGuarnicion")
+@Getter @Setter
 public class CategoriaGuarnicion {
 
     @Id

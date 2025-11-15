@@ -1,9 +1,12 @@
 package uam.edu.ni.KathEncargos.domain.catalogos;
 
+import lombok.*;
+
 import javax.persistence.*;
 
 @Entity
 @Table(name = "CategoriaFuerte")
+@Getter @Setter
 public class CategoriaFuerte {
 
     @Id
