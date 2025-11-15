@@ -37,7 +37,7 @@ El sistema se apoya en un modelo entidad–relación organizado en áreas de suj
 
 ### Diagrama físico
 
-<img width="1634" height="1182" alt="Image" src="https://github.com/user-attachments/assets/430c06ca-0fb5-48ff-8fc5-535d78a36e1c" />
+<img width="1634" height="1182" alt="Image" src="https://github.com/user-attachments/assets/ed7b1fc5-4d43-4b72-9727-ed5c553f91ec" />
 
 ## Arquitectura de la aplicación
 
